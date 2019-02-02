@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="text_message">TEXT_MESSAGE</string>
+</resources>
